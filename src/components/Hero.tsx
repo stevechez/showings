@@ -24,7 +24,7 @@ function Hero() {
         </svg>
         <Image
           className="h-56 w-full rounded object-cover shadow-lg md:h-96 lg:h-full lg:rounded-none lg:shadow-none"
-          src="https://showings-theta.vercel.app/public/assets/hero.jpg"
+          src="https://showings-theta.vercel.app/assets/hero.jpg"
           width={1400}
           height={700}
           alt=""
